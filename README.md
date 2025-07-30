@@ -1,2 +1,2 @@
-# unity-pong-clone-2D
-Recreating classic pong game in unity
+# Unity Pong Clone (2D)
+Recreating classic pong game in Unity
